@@ -1,0 +1,11 @@
+{
+  "name": "renovate-browserslist",
+  "version": "0.0.1",
+  "description": "A temporary repo to provide a minimal repro to renovate",
+  "author": "Alexandre Paradis",
+  "repository": "https://github.com/service-paradis/renovate-browserslist",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.2.4"
+  }
+}
